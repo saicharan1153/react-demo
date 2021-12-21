@@ -10,7 +10,7 @@ function App() {
       {/* <Reactbasic></Reactbasic> */}
       {/* <Nestedcomponents></Nestedcomponents> */}
       {/* <Booklist></Booklist> */}
-      {/* <List></List> */}
+      <List></List>
       <Setup></Setup>
     </div>
   );
